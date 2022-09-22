@@ -1,5 +1,5 @@
 <div class="bg-gray-500 p-10 ">
-		<a class="scroll bg-black text-white px-5 py-2 scroll-smooth " href="/">
+		<a class="hover:bg-gray-200 hover:text-black bg-black text-white px-5 py-2 scroll-smooth " href="/">
 				<i class="fa-solid fa-arrow-up pr-3"></i>
 				To the top
 		</a>

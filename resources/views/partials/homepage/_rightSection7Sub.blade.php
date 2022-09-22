@@ -8,7 +8,7 @@
             <div class="py-4">
 						<input type="text" placeholder="Entrer e-mail" class="border-2 w-full p-1">
             </div>
-            <button class="bg-red-500 text-white py-2 w-full">Subscribe</button>
+            <button class="hover:bg-gray-300 hover:text-black bg-red-500 text-white py-2 w-full">Subscribe</button>
 				</div>
 		</div>
 </div>
