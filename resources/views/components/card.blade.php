@@ -11,6 +11,7 @@
 				<div class="flex justify-between ">
 						<button class="px-3 font-black border-2 border-black hover:bg-gray-300"> <i
 										class="fa-solid fa-thumbs-up pr-2"></i>Like</button>
+						<a href="{{ route('show') }}">Show</a>
 						<button class="bg-black text-white px-4 py-2 flex hover:bg-gray-300 hover:text-black">Replies <div class="pl-4">
 										<div class="bg-white text-black font-bold px-2">{{ $replies }}</div>
 								</div></button>

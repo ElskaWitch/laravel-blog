@@ -8,4 +8,7 @@
 						powered by <a class="underline" href="">w3.css</a>
 				</p>
 		</div>
+		<div>
+				<a href="/">Home</a>
+		</div>
 </div>
